@@ -1,0 +1,19 @@
+p {
+    color: red;
+}
+
+#p5 {
+    color: rgb(96, 244, 116);
+}
+
+.text-color {
+    color: rgb(255, 0, 140);
+}
+
+#font {
+    font-size: 60px;
+}
+
+.underline {
+    text-decoration: underline;
+}
